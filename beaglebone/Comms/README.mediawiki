@@ -49,6 +49,9 @@ For industrial communication applications. Provides an array of communication pr
 |-
 | Pins Used
 | -
+|-
+| Address
+| 0x56
 |}
 
 
